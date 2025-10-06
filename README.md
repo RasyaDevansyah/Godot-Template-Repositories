@@ -8,9 +8,9 @@ Below is a list of available templates. Each one lives in its own repository. Cl
 
 | Template Name | Description | Godot Version | Repository Link |
 | :---------------- | :------------------------------------------------------ | :--------------: | :----------------------------------------------------------: |
-| **3D Player Controller** | A complete third-person character controller with movement, jumping, sprint, and camera controls. | 4.5 | [Link to Repo] |
-| **Saving system** | A basic state machine for enemy AI, including idle, patrol, and chase states. | 4.5 | [Link to Repo] |
-| **Dialogue System** | A node-based system for creating and managing game dialogue from JSON files. | 4.5 | [Link to Repo] |
+| **3D First Person Player Controller** | A complete first-person character controller with movement, jumping, sprint, and camera controls. | 4.5 | [Link to Repo](https://github.com/RasyaDevansyah/Godot-3D-Character-Controller-Template) |
+| **3D Player Tactical Shooter Controller** | A first-person character controller with movement, leaning, and shooting. | 4.5 | [Link to Repo](https://github.com/RasyaDevansyah/Godot-Tactical-Shooter-Template) |
+| **Saving system** | A simple save and load template for both encryption and non-encryption. | 4.5 | [Link to Repo](https://github.com/RasyaDevansyah/Godot-Saving-System-Template) |
 | | | | |
 
 ## 🤝 Contributing
