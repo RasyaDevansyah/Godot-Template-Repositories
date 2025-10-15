@@ -10,7 +10,9 @@ Below is a list of available templates. Each one lives in its own repository. Cl
 | :---------------- | :------------------------------------------------------ | :--------------: | :----------------------------------------------------------: |
 | **3D First Person Player Controller** | A complete first-person character controller with movement, jumping, sprint, and camera controls. | 4.5 | [Link to Repo](https://github.com/RasyaDevansyah/Godot-3D-Character-Controller-Template) |
 | **3D Player Tactical Shooter Controller** | A first-person character controller with movement, leaning, and shooting. | 4.5 | [Link to Repo](https://github.com/RasyaDevansyah/Godot-Tactical-Shooter-Template) |
+| **Third Person Shooter Controller** | A third-person character controller with movement, sprint, aiming, and dodge roll | 4.5 | [Link to Repo](https://github.com/RasyaDevansyah/Godot-Third-Person-Shooter-Template)
 | **Saving system** | A simple save and load template for both encryption and non-encryption. | 4.5 | [Link to Repo](https://github.com/RasyaDevansyah/Godot-Saving-System-Template) |
+| **Platform Adventure** | A Full open source 2D platformer game filled with levels, mechanics, and saving | 4.5 | [Link to Repo](https://github.com/RasyaDevansyah/Platform-Adventure) |
 
 ## 🤝 Contributing
 While this is primarily a personal collection, suggestions and feedback are always welcome! If you have an idea for a template or an improvement, please feel free to open an issue in the respective template's repository.
