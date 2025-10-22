@@ -22,5 +22,5 @@ While this is primarily a personal collection, suggestions and feedback are alwa
 ## 📄 License
 Each template repository contains its own license file. Unless otherwise specified, all templates are released under the MIT License. This means you are free to use, modify, and distribute them in your own projects, both personal and commercial.
 
-## ![This project was made possible by SlimeDev Studio](https://slimedevstudio.itch.io/)
+## [This project was made possible by SlimeDev Studio](https://slimedevstudio.itch.io/)
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8d5eda6c-4e4f-4383-b8f2-79b6d9d4ca4b" />
